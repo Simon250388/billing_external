@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
-	<ExternalReport uuid="dbbc74d9-f1da-4ff3-98ee-62ac08e97f83">
+	<ExternalDataProcessor uuid="48471d53-d278-4958-a1db-cc7dfc7ded56">
 		<InternalInfo>
 			<xr:ContainedObject>
-				<xr:ClassId>e41aff26-25cf-4bb6-b6c1-3f478a75f374</xr:ClassId>
-				<xr:ObjectId>00b01f26-df7b-4811-bf8f-3ce40631cfca</xr:ObjectId>
+				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
+				<xr:ObjectId>ea0b3051-33b4-472f-bbeb-1bc2ac59c7e3</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalReportObject.бестИнструментыНачисленийНП" category="Object">
-				<xr:TypeId>5a47101c-f5e4-44d2-830b-9eb35e67e0df</xr:TypeId>
-				<xr:ValueId>eb8a7ada-6ef8-427d-ae10-e8879b8079b1</xr:ValueId>
+			<xr:GeneratedType name="ExternalDataProcessorObject.бестИнструментыНачисленийНП" category="Object">
+				<xr:TypeId>9fa34318-e712-4ec4-b21b-731eff4d6f3b</xr:TypeId>
+				<xr:ValueId>d87d247b-deb8-4971-b861-0a376b5a80b0</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -22,13 +22,7 @@
 			<Comment/>
 			<DefaultForm/>
 			<AuxiliaryForm/>
-			<MainDataCompositionSchema/>
-			<DefaultSettingsForm/>
-			<AuxiliarySettingsForm/>
-			<DefaultVariantForm/>
-			<VariantsStorage/>
-			<SettingsStorage/>
 		</Properties>
 		<ChildObjects/>
-	</ExternalReport>
+	</ExternalDataProcessor>
 </MetaDataObject>
