@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
-	<ExternalReport uuid="0d955512-a64c-4b0f-b0e5-4257748a5091">
+	<ExternalDataProcessor uuid="88abafdb-9e21-4ee9-9bb1-8576869142a3">
 		<InternalInfo>
 			<xr:ContainedObject>
-				<xr:ClassId>e41aff26-25cf-4bb6-b6c1-3f478a75f374</xr:ClassId>
-				<xr:ObjectId>9ea16381-5394-47dd-9aa4-b7f7debe58e2</xr:ObjectId>
+				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
+				<xr:ObjectId>3117f286-ad29-43b3-b81a-56303b60c66e</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalReportObject.бестРаботаСПериодомДействияНП" category="Object">
-				<xr:TypeId>0d190bcf-820f-4b7d-b9e5-0c7ccfbc95a6</xr:TypeId>
-				<xr:ValueId>88891197-c6fa-4400-b78e-38b4c744c54e</xr:ValueId>
+			<xr:GeneratedType name="ExternalDataProcessorObject.бестРаботаСПериодомДействияНП" category="Object">
+				<xr:TypeId>1123188b-c789-465c-a073-5712983f5473</xr:TypeId>
+				<xr:ValueId>ff504bfb-a896-4c7a-8406-a0139a02934d</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -22,13 +22,7 @@
 			<Comment/>
 			<DefaultForm/>
 			<AuxiliaryForm/>
-			<MainDataCompositionSchema/>
-			<DefaultSettingsForm/>
-			<AuxiliarySettingsForm/>
-			<DefaultVariantForm/>
-			<VariantsStorage/>
-			<SettingsStorage/>
 		</Properties>
 		<ChildObjects/>
-	</ExternalReport>
+	</ExternalDataProcessor>
 </MetaDataObject>
