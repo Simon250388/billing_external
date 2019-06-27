@@ -1,34 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
-	<ExternalReport uuid="d8e99a33-780f-4f62-8efd-30d2cf0b267d">
+	<ExternalDataProcessor uuid="7e9afbdd-92b1-41f2-b518-a2e07f3d22f7">
 		<InternalInfo>
 			<xr:ContainedObject>
-				<xr:ClassId>e41aff26-25cf-4bb6-b6c1-3f478a75f374</xr:ClassId>
-				<xr:ObjectId>a144d489-eb18-48e6-b481-b72a76343b35</xr:ObjectId>
+				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
+				<xr:ObjectId>65b29bc6-e0b5-4198-b872-89fdc56d82a0</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalReportObject.бестРаботаСПоследовательностямиНП" category="Object">
-				<xr:TypeId>1a7f105e-5e9a-416c-a3c4-e84884fe45b7</xr:TypeId>
-				<xr:ValueId>0bbc296d-5391-4a5f-a167-8c2b2bd8fa67</xr:ValueId>
+			<xr:GeneratedType name="ExternalDataProcessorObject.бестРаботаСПоследовательностямиСобытияНП" category="Object">
+				<xr:TypeId>88dae3d6-8283-40aa-bdd4-9488d0164ac9</xr:TypeId>
+				<xr:ValueId>658a590b-f93e-4d85-b419-2b810cfe3942</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>бестРаботаСПоследовательностямиНП</Name>
+			<Name>бестРаботаСПоследовательностямиСобытияНП</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Работа с последовательностями юр. лиц (бест)</v8:content>
+					<v8:content>Работа с последовательностями события юр. лиц (бест)</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<DefaultForm/>
 			<AuxiliaryForm/>
-			<MainDataCompositionSchema/>
-			<DefaultSettingsForm/>
-			<AuxiliarySettingsForm/>
-			<DefaultVariantForm/>
-			<VariantsStorage/>
-			<SettingsStorage/>
 		</Properties>
 		<ChildObjects/>
-	</ExternalReport>
+	</ExternalDataProcessor>
 </MetaDataObject>
