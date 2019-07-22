@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.8">
-	<ExternalDataProcessor uuid="28ebce4d-8abf-478a-bff7-ae71d6a8e85d">
+	<ExternalDataProcessor uuid="093decb5-7032-4600-a5e2-4f458e89421f">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
-				<xr:ObjectId>106360eb-f10f-421e-b040-b8480e06b0bc</xr:ObjectId>
+				<xr:ObjectId>46755ee8-3882-414b-aa91-ed76422161fb</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:GeneratedType name="ExternalDataProcessorObject.энргИнструментыНачислений" category="Object">
-				<xr:TypeId>0b1dd431-e0ee-485b-996b-ec298fb7f69e</xr:TypeId>
-				<xr:ValueId>d4149ce8-e505-46ad-ac72-58eb4a918319</xr:ValueId>
+				<xr:TypeId>81cebcdf-583b-4456-8712-4be7af4edd36</xr:TypeId>
+				<xr:ValueId>6753b193-8367-4b02-b640-c9a9e277f76e</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
