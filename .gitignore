@@ -1,1 +1,4 @@
-**/bin/*.epf
+*
+!*/
+!.gitignore
+!**/ObjectModule.bsl
