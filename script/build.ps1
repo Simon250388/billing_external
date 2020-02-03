@@ -1,4 +1,7 @@
-$appName = 'C:\Program Files\1cv8\8.3.15.1700\bin\1cv8.exe'
+$curentPath = (Split-Path $MyInvocation.MyCommand.Path -Parent)
+[xml]$configFile= get-content $curentPath\Config.xml
+$PlatformPath = $configFile.configuration.Platform1c.add | Where { $_.Key -eq 'path' } | % { $_.value }
+$appName =  "$PlatformPath\bin\1cv8.exe"
 $parentPath = (Split-Path (Split-Path $MyInvocation.MyCommand.Path -Parent) -Parent)
 Get-ChildItem -Path $parentPath | ?{ $_.PSIsContainer } | Select-Object Name |Where-Object  {$_.Name -ne "script"} | foreach {
     $bslName = $_.Name
