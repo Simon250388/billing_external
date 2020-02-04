@@ -1,3 +1,4 @@
 *
 !.gitignore
 !**/ObjectModule.bsl
+!script/*.ps1
