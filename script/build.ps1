@@ -7,7 +7,7 @@ Get-ChildItem -Path $parentPath | Where-Object { $_.PSIsContainer } | Select-Obj
    $bslName = $_.Name
    $epfPath = ("$parentPath\$bslName\bin\$bslName.epf")
    if ((Test-Path  $epfPath  ) -eq "True") {
-      Remove-Item -Path $epfPath
+      Remove-Item -Path $epfPath | write-host -NoNewline
    }
    $folderBslName = ("$parentPath\$bslName")
    [string[]]$argList = "DESIGNER", "/LoadExternalDataProcessorOrReportFromFiles", """$folderBslName\$bslName.xml""", """$folderBslName\bin\$bslName.epf"""
