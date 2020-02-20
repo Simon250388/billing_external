@@ -11,7 +11,8 @@ Get-ChildItem -Path $parentPath | Where-Object { $_.PSIsContainer } | Select-Obj
    }
    $folderBslName = ("$parentPath\$bslName")
    [string[]]$argList = "DESIGNER", "/LoadExternalDataProcessorOrReportFromFiles", """$folderBslName\$bslName.xml""", """$folderBslName\bin\$bslName.epf"""
-   Start-Process -FilePath $appName -ArgumentList $argList -Wait   
+   Start-Process -FilePath $appName -ArgumentList $argList -Wait 
+   start-sleep -s 5 
    write-host  $epfPath 
 }
 Start-Sleep -s 5
