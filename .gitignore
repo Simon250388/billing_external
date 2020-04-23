@@ -1,4 +1,3 @@
-*
-!.gitignore
-!**/ObjectModule.bsl
-!script/*.ps1
+**/*.epf
+**/*.lnk
+script/*.xml
