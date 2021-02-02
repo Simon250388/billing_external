@@ -6,17 +6,17 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>3c6232a7-d7ac-43a5-9984-8dd05c47ad77</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.энргИнструментыНачислений" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.энргИнструментыНачисленийМКД" category="Object">
 				<xr:TypeId>fa27ec70-b1fa-4778-bff8-587aed44e402</xr:TypeId>
 				<xr:ValueId>067f8f1d-c3ab-4eaa-82da-55273edc0f5c</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>энргИнструментыНачислений</Name>
+			<Name>энргИнструментыНачисленийМКД</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Инструменты начислений (энрг)</v8:content>
+					<v8:content>Инструменты начислений МКД (энрг)</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
